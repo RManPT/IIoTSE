@@ -49,7 +49,7 @@
 /* Library used to read the metadata in the packets */
 #include "net/packetbuf.h"
 /* And we are including the example.h with the example configuration */
-#include "example.h"
+#include "config.h"
 /*---------------------------------------------------------------------------*/
 /* Enables printing debug output from the IP/IPv6 libraries */
 #define DEBUG DEBUG_PRINT
