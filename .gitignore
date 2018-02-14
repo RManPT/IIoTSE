@@ -31,3 +31,4 @@ vid.bat
 test*.*
 obj_zoul/
 *.bin
+*.c~
