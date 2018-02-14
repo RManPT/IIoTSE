@@ -28,8 +28,9 @@ TERM3
 	para a api da UBIDOTS
 	
 TERM4
-	Ainda por desenvolver... captura de dados da ubidots para enviar para a rede as opcoes de activar/desactivar actuadores
-	(poderá ficar sem ser feito)
+ sudo python3 ubidots2.py
+	captura de dados da ubidots para enviar para a rede as opcoes de activar/desactivar actuadores
+	(registado ao avac para testes ja detecta quando se pressiona o switch avac)
 
 DASHBOARD
 	https://app.ubidots.com/ubi/public/getdashboard/page/tUmsg8fMeDg3sYIfSzdQZ0kl7Xw
