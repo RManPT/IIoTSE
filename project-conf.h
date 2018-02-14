@@ -68,5 +68,6 @@
 #define ANTENNA_SW_SELECT_DEF_CONF ANTENNA_SW_SELECT_SUBGHZ
 
 
+
 /*---------------------------------------------------------------------------*/
 #endif /* PROJECT_CONF_H_ */

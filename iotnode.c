@@ -132,6 +132,8 @@ receiver(struct simple_udp_connection *c,
          const uint8_t *data,
          uint16_t datalen)
 {
+
+	printf("check");
   /* Variable used to store the retrieved radio parameters */
   radio_value_t aux;
 
