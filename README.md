@@ -34,3 +34,7 @@ TERM4
 
 DASHBOARD
 	https://app.ubidots.com/ubi/public/getdashboard/page/tUmsg8fMeDg3sYIfSzdQZ0kl7Xw
+	
+Os ficheiros na pasta EXTRA são ficheiros do contiki que tiveram de ser alterados:
+	buttons-sensors.h deve ser colocado na pasta /contiki/platform/zoul/dev
+	Makefile.C2538 deve ser colocado na pasta /contiki/cpu/cc2538
